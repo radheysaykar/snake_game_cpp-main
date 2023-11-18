@@ -6,7 +6,7 @@
 #define num 62
 #define a 30
 using namespace std;
-//i made changes
+//i made changes here
 condition_variable cv;
 
 char direction='s';
